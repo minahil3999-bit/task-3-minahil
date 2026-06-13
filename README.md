@@ -33,5 +33,5 @@ python password_generator.py
 * Build GUI version6
 ## Author
 **Minahil Noor**
-
+## Support
 If you like this project, consider giving it a ⭐ on GitHub!
